@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/api";
+const API = "https://unimatch-backend-um2f.onrender.com/api";
 let map;
 let geoJsonLayer;
 let universidades = [];
